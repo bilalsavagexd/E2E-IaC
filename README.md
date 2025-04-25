@@ -6,4 +6,4 @@ In this project I will design, implement, and manage a complete DevOps pipeline 
 
 I will establish an AWS VPC, deploy a Dockerized application on an EC2 instance, and automate the entire process using Infrastructure as Code (IaC). 
 
-This Project will help show comprehension of ``DevOps principles``, ``cloud infrastructure management``, ``containerization``, and ``version control``.
+This Project shows my comprehension of ``DevOps principles``, ``cloud infrastructure management``, ``containerization``, and ``version control``.

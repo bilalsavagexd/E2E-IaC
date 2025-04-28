@@ -7,9 +7,9 @@ echo "Applying Terraform Configuration..."
 terraform apply -auto-approve
 
 echo "Building Docker Image..."
-docker build -t muhammadbilalhassan/e2e-iac:latest ./app
+docker build -t <your-username>/e2e-iac:latest ./app
 
 echo "Pushing Docker Image to Docker Hub..."
-dcoker push muhammadbilalhassan/e2e-iac:latest
+dcoker push <your-username>/e2e-iac:latest
 
 echo "Deployment Complete!"
